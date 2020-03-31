@@ -12,4 +12,4 @@ stores = Store.create([
 
 pp stores
 puts "Number of Stores"
-pp.store.count
+pp stores.count
